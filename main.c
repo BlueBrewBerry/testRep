@@ -3,6 +3,6 @@ include <stdlib.h>
 
 int main()
 {
-	printf("Hello rld!");
+	printf("Hello World!");
 	return 0;
 }
